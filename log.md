@@ -24,3 +24,13 @@ Continued reading Kyle Simpson's excellent JS book "YDKJS: Types & Grammar".
 I still hate algos. All the ones I've seen today on Code Wars are centered on Fibonacci sequences or algebraic thingys. None of them make sense. Ok, I could go back to Khan Academy and bone up on my lost algebra. But do I want to? Not really. Perhaps once I understand node I will.
 
 **Link to work:** [Timestamp(so far)](https://sable-idea.gomix.me/)
+
+### Day 2: January 2, 2017
+
+**Today's Progress:** I've realized figuring out if a string is a date is trickier than I first thought. I found a stackoverflow that explains how to figure out if a date is valid in Moment.js. I'm going to learn this today!
+
+The timestamp app is a bit bare and boring. It needs jazzing up. Something that pops! Some pizzazz! And at least one cat!
+
+Ok, looks like I'll need to figure out webpack too.
+
+**Link to work:** [Timestamp(so far)](https://sable-idea.gomix.me/)

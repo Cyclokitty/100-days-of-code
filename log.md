@@ -34,3 +34,22 @@ The timestamp app is a bit bare and boring. It needs jazzing up. Something that 
 Ok, looks like I'll need to figure out webpack too.
 
 **Link to work:** [Timestamp(so far)](https://sable-idea.gomix.me/)
+
+
+### Day 3: January 3, 2017
+
+**Today's Progress:** The struggle is real, yo!
+
+Read more YDKJS Types & Grammar. I believe I'll be rereading this again very soon. Much of it has gone **swoosh** over my head.
+
+Worked on my timestamp app project. In particular, learned how to use Moment.js in the project. Basically, I figured out how to validate a number and a string, then set the results in divs. I still have to figure out the if statements to request.send all the information. Luckily the format is set up already in the app.  
+
+**Link to work:** [Codepen where I fiddled with Moment.js](http://codepen.io/Cyclokitty/pen/jyOYey?editors=1011)
+
+**Thoughts:** I'm bothered that I learn in almost complete silence unless I'm working on a video tutorial. I realized that I don't play music, or a podcast, or have white noise playing in the background. I used to always study with music. I signed up for a free Spotify account and now I have no idea what to play because there is so much to choose. Oh, conundrums!
+
+Ok, settled on "Canada Viral 50".
+
+**Other Stuff** Other stuff I'm doing today: cleaned off the junk table in the dining room and boxed up Daisy's toys. This was sad for me and Shaun because we still miss Daisy terribly. I hope she doesn't think we are boxing her up too. We talk about her every day and love the little bundle of foofyness.
+
+Set my mtn bike on the trainer in the basement. I'm a lazy beast. I need to get back in shape because simple walks are tiring me out and I like cake too much. I have figured out the bike music: not music but the "My Favorite Murders" podcast. It is amazing! Gonna start with 15 minutes of spinning each day this week to get my hammies accustomed to the bike seat this week.

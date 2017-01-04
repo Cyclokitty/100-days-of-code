@@ -55,3 +55,15 @@ Ok, settled on "Canada Viral 50".
 Set my mtn bike on the trainer in the basement. I'm a lazy beast. I need to get back in shape because simple walks are tiring me out and I like cake too much. I have figured out the bike music: not music but the "My Favorite Murders" podcast. It is amazing! Gonna start with 15 minutes of spinning each day this week to get my hammies accustomed to the bike seat this week.
 
 ### Day 4: January 4, 2017
+
+More work on my timestamp app! Looking good so far.
+
+And then my day exploded. Ok crazy stuff. Ha!
+
+YES!!!! I finished the timestamp app!!!
+
+Life and js are good.
+
+**Thoughts:** wow whoah. Node is a learning curve. Ok, I sorted out a pretty basic, bare bones app. Time to up my mad skillz and improve on the next project.
+
+**Link to work:** [Timestamp(so far)](https://sable-idea.gomix.me/)

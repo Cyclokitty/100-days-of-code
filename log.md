@@ -53,3 +53,5 @@ Ok, settled on "Canada Viral 50".
 **Other Stuff** Other stuff I'm doing today: cleaned off the junk table in the dining room and boxed up Daisy's toys. This was sad for me and Shaun because we still miss Daisy terribly. I hope she doesn't think we are boxing her up too. We talk about her every day and love the little bundle of foofyness.
 
 Set my mtn bike on the trainer in the basement. I'm a lazy beast. I need to get back in shape because simple walks are tiring me out and I like cake too much. I have figured out the bike music: not music but the "My Favorite Murders" podcast. It is amazing! Gonna start with 15 minutes of spinning each day this week to get my hammies accustomed to the bike seat this week.
+
+### Day 4: January 4, 2017

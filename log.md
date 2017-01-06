@@ -80,4 +80,4 @@ Spotify Music: 70s Smash Hits
 
 **Thoughts:** It was hard concentrating today after yesterday's project completion high. I had to keep pulling myself back to my laptop and settle myself back down. I may need in the future to treat the day after I finish a project a day of reading JS rather than sit and do code. Not sure. Will sort it out.
 
-This is my new favourite webpage: [Cornify -- unicorns and rainbows, oh my!]('http://www.cornify.com/')
+This is my new favourite webpage: [Cornify]('http://www.cornify.com/')

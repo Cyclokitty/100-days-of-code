@@ -56,7 +56,7 @@ Set my mtn bike on the trainer in the basement. I'm a lazy beast. I need to get 
 
 ### Day 4: January 4, 2017
 
-More work on my timestamp app! Looking good so far.
+**Today's Progress:** More work on my timestamp app! Looking good so far.
 
 And then my day exploded. Ok crazy stuff. Ha!
 
@@ -67,3 +67,17 @@ Life and js are good.
 **Thoughts:** wow whoah. Node is a learning curve. Ok, I sorted out a pretty basic, bare bones app. Time to up my mad skillz and improve on the next project.
 
 **Link to work:** [Timestamp(so far)](https://sable-idea.gomix.me/)
+
+### Day 5: January 5, 2017
+
+**Today's Progress:** Coming down from a coding success high because I finished that timestamp microservice app. phew! I tire me out.
+
+Special note: Received my pack of stickers from Hacktober! Yay! Laptop decorating this weekend
+
+Worked on Wes Bos' excellent Javascript 30 from day 10 to day 12. What I like about this course is it isn't about algorithms. It's about having a functioning website and you link to the html elements in vanilla js and make them work. Such a relief after all of the mathy algos (which I hate).
+
+Spotify Music: 70s Smash Hits
+
+**Thoughts:** It was hard concentrating today after yesterday's project completion high. I had to keep pulling myself back to my laptop and settle myself back down. I may need in the future to treat the day after I finish a project a day of reading JS rather than sit and do code. Not sure. Will sort it out.
+
+This is my new favourite webpage: [Cornify -- unicorns and rainbows, oh my!]('http://www.cornify.com/')

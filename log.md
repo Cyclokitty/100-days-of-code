@@ -66,7 +66,7 @@ Life and js are good.
 
 **Thoughts:** wow whoah. Node is a learning curve. Ok, I sorted out a pretty basic, bare bones app. Time to up my mad skillz and improve on the next project.
 
-**Link to work:** [Timestamp(so far)](https://sable-idea.gomix.me/)
+**Link to work:** [Timestamp is here!](https://sable-idea.gomix.me/)
 
 ### Day 5: January 5, 2017
 

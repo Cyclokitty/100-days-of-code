@@ -98,3 +98,15 @@ That, right there, needs stitching on a pillow.
 I also listened to a Code Newbies podcast with Alex Kallaway (righteous dude who figured out #100DaysOfCode). I have quite a few of the CN podcast stored up that I need to listen to over the next couple of weeks.
 
 **Thoughts:** Good grief, I hate bus rides. But they are excellent places for reading javascript theory. Thank the cats that Kyle Simpson wrote such an incredible series that clears much haze off the mysteries I confuse myself with when I code.
+
+### Day 7: January 7, 2017
+
+**Today's Progress:** Spending today learning how node works and making a nice, little node boiler for my projects. I'm watching "Learn and Understand NodeJs" with Tony Alicea. I did his Javascript Weird parts course and it helped clear up many misunderstandings I had about js. I have hopes that his Nodejs course will explain some nitty gritty bits that I need.
+
+Tony is verbose. Great course but has lots of details from his Js the weird stuff course. I'm plugging away.
+
+As I plugged away, I made a basic, basic, basic [node app](https://github.com/Cyclokitty/cknode). It was fun and I'm enjoying the server side of web development.
+
+**Other Stuff:** Last week I ordered what looked like a sweet looking laptop stand for my desk. I was using a stack of web dev books which was ok but inconvenient since now and then I needed to dig out one of the books. Finally caved and checked out laptop stand on amazon. I received it yesterday and OMG it is better than I thought! It's a thick, curved piece of aluminum and it holds my laptop at the perfect angle. Now, I'm thinking I need a nicer monitor stand because it too is sitting on several books. Yeah, my desk is looking swish!
+
+I also combined several small slips of paper with cli commands, github commands, and heroku commands into one small notebook. Much better!

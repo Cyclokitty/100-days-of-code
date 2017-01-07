@@ -81,3 +81,20 @@ Spotify Music: 70s Smash Hits
 **Thoughts:** It was hard concentrating today after yesterday's project completion high. I had to keep pulling myself back to my laptop and settle myself back down. I may need in the future to treat the day after I finish a project a day of reading JS rather than sit and do code. Not sure. Will sort it out.
 
 This is my new favourite webpage: [Cornify](http://www.cornify.com/)
+
+### Day 6: January 6, 2017
+
+**Today's Progress:** I went to Barrie, Ontario for the day to help my mom with our family cat, Freddie. He has a crumpled ear, IBS and an irritated liver and needed another B12 shot. Oh the fun! He needs to take these shots for another 4 weeks and the vet showed my mom how to give Freddie and needle. Next Friday, I'll head back up and help her.
+
+Thus, my programming work was all theoretical. I read more of Kyle Simpson's YDKJS Types & Grammar. In particular an interesting chapter about explicit and implicit coercion. Especially "So, don't just blindly use === everywhere simply because that's what your code tools tell you to do, or (worst of all) because you've been told in some book to not think about it. You own the quality of your code."
+
+You own the quality of your code.  
+=================================
+^       
+|
+|  
+That, right there, needs stitching on a pillow.
+
+I also listened to a Code Newbies podcast with Alex Kallaway (righteous dude who figured out #100DaysOfCode). I have quite a few of the CN podcast stored up that I need to listen to over the next couple of weeks.
+
+**Thoughts:** Good grief, I hate bus rides. But they are excellent places for reading javascript theory. Thank the cats that Kyle Simpson wrote such an incredible series that clears much haze off the mysteries I confuse myself with when I code.

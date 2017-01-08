@@ -110,3 +110,15 @@ As I plugged away, I made a basic, basic, basic [node app](https://github.com/Cy
 **Other Stuff:** Last week I ordered what looked like a sweet looking laptop stand for my desk. I was using a stack of web dev books which was ok but inconvenient since now and then I needed to dig out one of the books. Finally caved and checked out laptop stand on amazon. I received it yesterday and OMG it is better than I thought! It's a thick, curved piece of aluminum and it holds my laptop at the perfect angle. Now, I'm thinking I need a nicer monitor stand because it too is sitting on several books. Yeah, my desk is looking swish!
 
 I also combined several small slips of paper with cli commands, github commands, and heroku commands into one small notebook. Much better!
+
+### Day 8: January 8, 2017
+
+**Today's Progress:**
+
+Continuing my node js adventures. We use Express lots in Node so I'm making a basic node app with it. It's a lot shorter and straight forward.
+
+Nothing to the app. I can grab the words past '/' and then type them on the screen.
+
+[Node Express app](https://github.com/Cyclokitty/node-express)
+
+Watched more of Tony Alicea's Understanding Node. It is slow going. Nice that he works on js functions even if it's a bit repetitive. 

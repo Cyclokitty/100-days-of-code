@@ -121,4 +121,21 @@ Nothing to the app. I can grab the words past '/' and then type them on the scre
 
 [Node Express app](https://github.com/Cyclokitty/node-express)
 
-Watched more of Tony Alicea's Understanding Node. It is slow going. Nice that he works on js functions even if it's a bit repetitive. 
+Watched more of Tony Alicea's Understanding Node. It is slow going. Nice that he works on js functions even if it's a bit repetitive.
+
+### Day 9: January 9, 2017
+
+**Things to Do**
+- start second FCC backend project: [Request Header Parser Microservice](https://www.freecodecamp.com/challenges/request-header-parser-microservice)
+
+- figure out how to deploy to Heroku
+
+- work on ES6 Wes Bos course & his Javascript30 course
+
+- theory reading: YDKJS Types & Grammar, and Javascript Allongé
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to Work:**

@@ -126,16 +126,19 @@ Watched more of Tony Alicea's Understanding Node. It is slow going. Nice that he
 ### Day 9: January 9, 2017
 
 **Things to Do**
-- start second FCC backend project: [Request Header Parser Microservice](https://www.freecodecamp.com/challenges/request-header-parser-microservice)
+✅ start second FCC backend project: [Request Header Parser Microservice](https://www.freecodecamp.com/challenges/request-header-parser-microservice)
 
-- figure out how to deploy to Heroku
+✅ figure out how to deploy to Heroku
 
-- work on ES6 Wes Bos course & his Javascript30 course
-
-- theory reading: YDKJS Types & Grammar, and Javascript Allongé
+✅ theory reading: YDKJS Types & Grammar, and Javascript Allongé
 
 **Today's Progress:**
+YES! Completed the [request header parser](https://cyclokitty-header-parser.herokuapp.com/) !
 
 **Thoughts:**
+There was a lot of googling figuring out how expressjs works -- especially the headers. Luckily there is a lot of practicing coming up!
+
+Also, I learned how to deploy my apps to Heroku. Changed my app name too. This was a good day!
 
 **Link to Work:**
+[request header parser](https://cyclokitty-header-parser.herokuapp.com/) and the [repo](https://github.com/Cyclokitty/cyclokitty-header-parser)

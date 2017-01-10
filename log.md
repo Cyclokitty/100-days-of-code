@@ -142,3 +142,17 @@ Also, I learned how to deploy my apps to Heroku. Changed my app name too. This w
 
 **Link to Work:**
 [request header parser](https://cyclokitty-header-parser.herokuapp.com/) and the [repo](https://github.com/Cyclokitty/cyclokitty-header-parser)
+
+
+### Day 10: January 10, 2017
+
+**Things To Do:**
+
+First day of MongoDB University! Databases are vital and I will learn how to use them in my backend projects!
+
+**Today's Progress:**
+HOly smokes! It was challenging first day of MongoDB. First, this was my first tarball. Second, playing in the terminal is neat but I always imagine the marvelous ways I can screw up my laptop. It's so new. Luckily I like new and dove right in. I already passed the first 2 quizzes. Keener! lol!
+
+Currently watching the basic nodejs install and server start up. I've done these things. Just watching to make sure I don't miss something. So far, it's all good.
+
+I did have one problem. The db said I did not have enough soft rlimits. I worried that it meant my project would fail in the future. My google-fu saved me again because I found the answer on stackoverflow. Wrote a note in my MongoDB binder (yes, I write in a book. On paper. With a bright blue Sharpie pen.) for the future. Works! Yay!

@@ -156,3 +156,20 @@ HOly smokes! It was challenging first day of MongoDB. First, this was my first t
 Currently watching the basic nodejs install and server start up. I've done these things. Just watching to make sure I don't miss something. So far, it's all good.
 
 I did have one problem. The db said I did not have enough soft rlimits. I worried that it meant my project would fail in the future. My google-fu saved me again because I found the answer on stackoverflow. Wrote a note in my MongoDB binder (yes, I write in a book. On paper. With a bright blue Sharpie pen.) for the future. Works! Yay!
+
+### Day 11: January 11, 2017
+
+**Things To Do**
+- continue the MongoDB Uni course
+- work on algos for a resume
+  -- HA! completed all 4 algos
+- read 1 chaper in JS Allongé
+
+**Thoughts:**
+Feeling lazy and having a late start to my day.
+
+I'll feel better after doing some coding.
+
+And I did feel much better after coding those 4 algos. In fact, they were for a web dev job application and I decided to send my resume with the the 4 algos to the company.
+
+  **cross fingers!**

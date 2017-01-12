@@ -173,3 +173,17 @@ I'll feel better after doing some coding.
 And I did feel much better after coding those 4 algos. In fact, they were for a web dev job application and I decided to send my resume with the the 4 algos to the company.
 
   **cross fingers!**
+
+### Day 12: January 12, 2017
+
+**Things To Do:**
+
+- continue MongoDB Uni week 1
+
+- read chapter in JS Allongé (it's very good)
+
+**Thoughts:**
+
+You know what is important when coding? Your desk set up. I've been working on mine for the past month or so. I know have a sweet Coding Studio -- monitor on a stand, laptop on a stand, places for pens and rulers and whiteboard markers and places for my notebooks, mouse & pad, and my lucky dice.
+
+YES! I finished the 3 assignments for MongoDB Uni.

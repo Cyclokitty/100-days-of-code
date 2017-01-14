@@ -206,3 +206,15 @@ Cats are fine with needles if you do the deed quickly.
 **Link To Work**
 
 [MongDB Challenge Homework](https://github.com/Cyclokitty/Movie_Logger)
+
+## Day 14: January 14, 2017
+
+**Today's Progress:**
+Wow! I learned loads today! I completed this week's MongoDB challenge question. I added a routing page for the db retults but it isn't quite working yet. Need more work on it.
+
+**Thoughts:**
+On January 28 there is a node class downtown. When I found the free ticket link, the free tickets were already gone. But I added my name to a waiting list and I received a free ticket! yay!
+
+**Link To Work**
+
+[MongDB Challenge Homework](https://github.com/Cyclokitty/Movie_Logger)

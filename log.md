@@ -187,3 +187,22 @@ And I did feel much better after coding those 4 algos. In fact, they were for a 
 You know what is important when coding? Your desk set up. I've been working on mine for the past month or so. I know have a sweet Coding Studio -- monitor on a stand, laptop on a stand, places for pens and rulers and whiteboard markers and places for my notebooks, mouse & pad, and my lucky dice.
 
 YES! I finished the 3 assignments for MongoDB Uni.
+
+### Day 13: January 13, 2017
+
+**Today's Progress:**
+Nearly all theory reading today because I went to my mom's to give the House Panther a B12 shot.
+
+Read:
+  - Javascript Allongé (about functions)
+  - YDKJS This & Prototypes (half a chapter)
+  - DOM Enlightenment (first chapter)
+
+I set up a Github repo for this week's MongoDB Uni challenge problem: Create Movie Entries. As well, set up a folder for the project in Atom.
+
+**Thoughts:**
+Cats are fine with needles if you do the deed quickly.
+
+**Link To Work**
+
+[MongDB Challenge Homework](https://github.com/Cyclokitty/Movie_Logger)

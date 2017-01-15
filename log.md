@@ -218,3 +218,9 @@ On January 28 there is a node class downtown. When I found the free ticket link,
 **Link To Work**
 
 [MongDB Challenge Homework](https://github.com/Cyclokitty/Movie_Logger)
+
+**Late Night Coding:**
+
+Ha! I re-watched the video about finding and rendering db results and I found where I made my error.
+
+Corrected it. The app works! It WORKS! Muhahahahaha!

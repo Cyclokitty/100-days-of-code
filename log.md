@@ -224,3 +224,15 @@ On January 28 there is a node class downtown. When I found the free ticket link,
 Ha! I re-watched the video about finding and rendering db results and I found where I made my error.
 
 Corrected it. The app works! It WORKS! Muhahahahaha!
+
+### Day 15: January 15, 2017
+
+**Today's Progress:**
+
+We decided to ditch work and studying and enjoyed a lovely family day together.
+
+I did work on the appearance of my Movie Logger. Added Bootstrap and worked on making the components work with Bootstrap. It's already looking better!
+
+**Link To Work**
+
+[New & Improved: MongoDB Challenge Homework](https://github.com/Cyclokitty/Movie_Logger)

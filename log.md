@@ -236,3 +236,10 @@ I did work on the appearance of my Movie Logger. Added Bootstrap and worked on m
 **Link To Work**
 
 [New & Improved: MongoDB Challenge Homework](https://github.com/Cyclokitty/Movie_Logger)
+
+## January 16, 2017
+
+**Day Off!**
+I decided I needed a day away from coding. Instead, I enjoyed a lovely family day. Saw Rogue One at the movie theatre. Ate far too much popcorn.
+
+Tomorrow, I code!

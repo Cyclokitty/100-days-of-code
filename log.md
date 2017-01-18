@@ -243,3 +243,13 @@ I did work on the appearance of my Movie Logger. Added Bootstrap and worked on m
 I decided I needed a day away from coding. Instead, I enjoyed a lovely family day. Saw Rogue One at the movie theatre. Ate far too much popcorn.
 
 Tomorrow, I code!
+
+## Day 16: January 17, 2017
+
+**Today's Progress:**
+
+I worked on videos and techniques from MongoDB Uni's week 2. I see lots of methods for programming button clicks. I hope this is possible.
+
+Node.js is getting more and more interesting. I tried out  yargs and nodemon libraries. I'm thinking about making my Movie Logger project into a desktop app using Express.
+
+[Password Manager made with node.js (infant state)](https://github.com/Cyclokitty/password-manager)

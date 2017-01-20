@@ -253,3 +253,29 @@ I worked on videos and techniques from MongoDB Uni's week 2. I see lots of metho
 Node.js is getting more and more interesting. I tried out  yargs and nodemon libraries. I'm thinking about making my Movie Logger project into a desktop app using Express.
 
 [Password Manager made with node.js (infant state)](https://github.com/Cyclokitty/password-manager)
+
+## Day 17: January 18, 2017
+
+**Today's Progress:**
+
+I found out there is an updated Node.js course on Udemy with Andrew Mead. He's a good instructor. Bought it!
+
+But first I finished the password-manager app and it was fun and I learned a lot.
+
+**Link to Work:**
+
+[Password Manager made with node.js](https://github.com/Cyclokitty/password-manager)
+
+## Day 18: January 19, 2017
+
+**Today's Progress:**
+
+Completed my week 2 homework for MongoDB Uni! yay!
+
+Set up my third FCC backend project: URL Shortener Microservice on github.
+
+Working on the Node.js course. I made a lot of progress and worked on ternary conditionals. I'm looking forward to figuring out how to set up MongoDB database to my projects. (Especially the fcc backend projects).
+
+**Link To Work:**
+
+[My Short-Url-Service](https://github.com/Cyclokitty/short-url-service)

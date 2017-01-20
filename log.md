@@ -279,3 +279,5 @@ Working on the Node.js course. I made a lot of progress and worked on ternary co
 **Link To Work:**
 
 [My Short-Url-Service](https://github.com/Cyclokitty/short-url-service)
+
+[note-makr](https://github.com/Cyclokitty/note-makr)

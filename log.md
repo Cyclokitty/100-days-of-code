@@ -281,3 +281,19 @@ Working on the Node.js course. I made a lot of progress and worked on ternary co
 [My Short-Url-Service](https://github.com/Cyclokitty/short-url-service)
 
 [note-makr](https://github.com/Cyclokitty/note-makr)
+
+## Day 19: January 20, 2017
+
+**Today's Progress:**
+
+Finished note-makr videos and app. I may actually use it.
+
+Began a new project 'weather-app'. Again, terminal app. I'm looking forward to building bigger apps.
+
+Read more about MongoDB (creating db) and some npm modules to work my next backend project (Short-Url-Service) to confirm an URL is valid and to give a random code to replace the URL.
+
+**Link To Work:**
+
+[My Short-Url-Service](https://github.com/Cyclokitty/short-url-service)
+
+[note-makr](https://github.com/Cyclokitty/note-makr)

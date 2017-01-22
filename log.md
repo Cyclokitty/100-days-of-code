@@ -310,4 +310,16 @@ We're using gomix.me instead of heroku for the backend projects. Gomix.me feels 
 
 The mongoDB and mongoose lessons are very barebones and nearly useless. Hopefully they get fleshed out.
 
-Then, I continued with my Node.js course. We mostly finished the weather app and tomorrow I will begin the Web Servers and Apps Deploy section. I'm anxious to get to the MongoDB and Mongoose sections. 
+Then, I continued with my Node.js course. We mostly finished the weather app and tomorrow I will begin the Web Servers and Apps Deploy section. I'm anxious to get to the MongoDB and Mongoose sections.
+
+## Day 21: January 22, 2017
+
+**Today's Progress:**
+
+yay! Figured out how to grab, validate, and assign a shortid for my Url Shortener project. All I have to do now is wire up the mongodb and an mLab account. I'm aiming for Thursday for all this to happen. (Tomorrow, spending day with my mom!).
+
+Spent some time learning Promises. I need more practice. 
+
+**Link To Work:**
+
+[My Short-Url-Service](https://github.com/Cyclokitty/short-url-service)

@@ -297,3 +297,17 @@ Read more about MongoDB (creating db) and some npm modules to work my next backe
 [My Short-Url-Service](https://github.com/Cyclokitty/short-url-service)
 
 [note-makr](https://github.com/Cyclokitty/note-makr)
+
+### Day 20: January 21, 2017
+
+**Today's Progress:**
+
+freecodecamp released the beta version of the soon to be released curriculum so I decided to take a gander at it and ended up completed the first chunk of lessons. The lessons aren't linked up and the instructions for setting up gomix.me was missing. I have used gomix.me before (when it was called hyperdev) so it didn't take long to get my complilation project made.
+
+I made this: [abhorrent-forks](http://abhorrent-fork.gomix.me/)
+
+We're using gomix.me instead of heroku for the backend projects. Gomix.me feels kindo of like codepen -- easy to start up but doesn't necessary teach you how to set up projects locally and gitting your repos. I will copy all my gomix.me stuff locally and push to git that way.
+
+The mongoDB and mongoose lessons are very barebones and nearly useless. Hopefully they get fleshed out.
+
+Then, I continued with my Node.js course. We mostly finished the weather app and tomorrow I will begin the Web Servers and Apps Deploy section. I'm anxious to get to the MongoDB and Mongoose sections. 

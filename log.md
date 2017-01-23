@@ -318,8 +318,14 @@ Then, I continued with my Node.js course. We mostly finished the weather app and
 
 yay! Figured out how to grab, validate, and assign a shortid for my Url Shortener project. All I have to do now is wire up the mongodb and an mLab account. I'm aiming for Thursday for all this to happen. (Tomorrow, spending day with my mom!).
 
-Spent some time learning Promises. I need more practice. 
+Spent some time learning Promises. I need more practice.
 
 **Link To Work:**
 
 [My Short-Url-Service](https://github.com/Cyclokitty/short-url-service)
+
+## Day 22: January 23, 2017
+
+**Today's Progress:**
+
+Consisted of all theory reading you can do on Go Transit buses from Toronto to Barrie. I read the chapters about Promises in YDKJS Async and Performance and ES6 and Beyond books. I didn't get a chance to today, tomorrow I will rewatch Wes Bos' Promises videos and work on a pile of examples. Promises will be very important in Node!

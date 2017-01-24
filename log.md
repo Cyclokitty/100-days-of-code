@@ -329,3 +329,25 @@ Spent some time learning Promises. I need more practice.
 **Today's Progress:**
 
 Consisted of all theory reading you can do on Go Transit buses from Toronto to Barrie. I read the chapters about Promises in YDKJS Async and Performance and ES6 and Beyond books. I didn't get a chance to today, tomorrow I will rewatch Wes Bos' Promises videos and work on a pile of examples. Promises will be very important in Node!
+
+## Day 23: January 24, 2017
+
+**Today's Progress:**
+
+MongoDB Uni course week 3 work is late starting. I'll return to it tomorrow.
+
+Instead, I'm working on Promises (watching Wes Bos' ES6 module #10 on Promises, re-watching Andrew J. Mead's videos on Promises, and reviewing YDKJS Promises in a couple of his books).
+
+And then I'll work some more on Mead's Node.js course. I'm sick of making projects in the terminal. I want to get to the MongoDB and Mongoose sections.
+
+I also figured out how to get ESLint working on my projects, starting with the Short-Url-Service. I have it set to Google ESLint settings but will change over to Airbnb settings.
+
+Ok, so Handlebars.js is pretty cool. I learned a bit today in the Andrew J. Mead course. I love the double curly brackets! Much easier to read and quick to type. 
+
+**Link To Work:**
+
+[My Short-Url-Service](https://github.com/Cyclokitty/short-url-service)
+
+[Weather terminal app](https://github.com/Cyclokitty/weather)
+
+[Weather Online App](https://github.com/Cyclokitty/WeatherApp)

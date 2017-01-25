@@ -342,7 +342,7 @@ And then I'll work some more on Mead's Node.js course. I'm sick of making projec
 
 I also figured out how to get ESLint working on my projects, starting with the Short-Url-Service. I have it set to Google ESLint settings but will change over to Airbnb settings.
 
-Ok, so Handlebars.js is pretty cool. I learned a bit today in the Andrew J. Mead course. I love the double curly brackets! Much easier to read and quick to type. 
+Ok, so Handlebars.js is pretty cool. I learned a bit today in the Andrew J. Mead course. I love the double curly brackets! Much easier to read and quick to type.
 
 **Link To Work:**
 
@@ -351,3 +351,13 @@ Ok, so Handlebars.js is pretty cool. I learned a bit today in the Andrew J. Mead
 [Weather terminal app](https://github.com/Cyclokitty/weather)
 
 [Weather Online App](https://github.com/Cyclokitty/WeatherApp)
+
+## Day 24: January 25, 2017
+
+**Today's Progress:**
+
+Webpack 2 has been released and I made acquaintances with the docs. Definitely will need a couple of tutorials figuring out how to use Webpack 2.
+
+Started a list of stickers I want for my laptop. I have a couple on my laptop already and a few I'm sticking on the laptop once I clean it a bit. (Laptop is manky.)
+
+Worked some more on Node.js course and learning more about handlebars.js (on sticker list) and templating. 

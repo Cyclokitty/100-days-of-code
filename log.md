@@ -365,3 +365,17 @@ Worked some more on Node.js course and learning more about handlebars.js (on sti
 **Link To Work:**
 
 [Weather Online App](https://github.com/Cyclokitty/WeatherApp)
+
+## Day 25: January 26, 2017
+
+**Today's Progress:**
+
+More time figuring out handlebars and partials, and learning Express middleware. I had trouble before with middleware and I'm keeping my ears open. So far, so good.
+
+I tried using handlebars (hbs) on my gomix.me backend project (the timestamp) but it's not working well. Tomorrow I will try hbs on my current backend project (url shortener).
+
+Gitter is down this afternoon. I checked twitter and Gitter was doing  maintenance when it went nuts on them. 
+
+**Link To Work:**
+
+[Weather Online App](https://github.com/Cyclokitty/WeatherApp)

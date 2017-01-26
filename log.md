@@ -374,8 +374,12 @@ More time figuring out handlebars and partials, and learning Express middleware.
 
 I tried using handlebars (hbs) on my gomix.me backend project (the timestamp) but it's not working well. Tomorrow I will try hbs on my current backend project (url shortener).
 
-Gitter is down this afternoon. I checked twitter and Gitter was doing  maintenance when it went nuts on them. 
+Gitter is down this afternoon. I checked twitter and Gitter was doing  maintenance when it went nuts on them.
+
+Ok! Deployed my Weather App. It is ugly and doesn't describe anything weather like. But still, deployed!
 
 **Link To Work:**
 
 [Weather Online App](https://github.com/Cyclokitty/WeatherApp)
+
+[on Heroku!](https://cyclokitty-weather.herokuapp.com/about)

@@ -360,4 +360,8 @@ Webpack 2 has been released and I made acquaintances with the docs. Definitely w
 
 Started a list of stickers I want for my laptop. I have a couple on my laptop already and a few I'm sticking on the laptop once I clean it a bit. (Laptop is manky.)
 
-Worked some more on Node.js course and learning more about handlebars.js (on sticker list) and templating. 
+Worked some more on Node.js course and learning more about handlebars.js (on sticker list) and templating. Made some partials for header and footer. Which is great because that's what I want to add to my backend server projects for added sassyness and oomph.
+
+**Link To Work:**
+
+[Weather Online App](https://github.com/Cyclokitty/WeatherApp)

@@ -383,3 +383,15 @@ Ok! Deployed my Weather App. It is ugly and doesn't describe anything weather li
 [Weather Online App](https://github.com/Cyclokitty/WeatherApp)
 
 [on Heroku!](https://cyclokitty-weather.herokuapp.com/about)
+
+## Day 26: January 27, 2017
+
+**Today's Progress:**
+
+I finished the section about TDD and I definitely need to try out more testing. This new section of the Mead Node.JS course will cover TDD when we make this Todo app.
+
+I'm disappointed we did not continue the weather app deployed to Heroku. It's just a nothing deployed app. Looks stupid. I think my project this coming week will be making it an actual, weather forecasting app.
+
+Oh! My brain hurts! We are now doing MongoDB, Mongoose, and using Robomongo.
+
+Robomongo is the GUI of the Mongo shell and so much easier. It's all there in front of you. All of the dbs, each of their collections, all of the data inside each collection. I no longer feel like I'm flying with my eyes covered. Seriously, Robomongo makes MongoDB a dream.

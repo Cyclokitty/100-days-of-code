@@ -395,3 +395,11 @@ I'm disappointed we did not continue the weather app deployed to Heroku. It's ju
 Oh! My brain hurts! We are now doing MongoDB, Mongoose, and using Robomongo.
 
 Robomongo is the GUI of the Mongo shell and so much easier. It's all there in front of you. All of the dbs, each of their collections, all of the data inside each collection. I no longer feel like I'm flying with my eyes covered. Seriously, Robomongo makes MongoDB a dream.
+
+##Day 27: January 28, 2017
+
+Went to NodeSchool Toronto today. It was the FCC field trip. lol. I worked on Sass with NodeSchool's terminal program. Next up, figure out how to use Sass in my projects.
+
+I also picked up a couple of new stickers for my laptop: Digital Ocean Canadian shark and a NodeSchool Toronto sticker. Very nice.
+
+Tomorrow will be a full day: I must do my MongoDB Uni work! The homework is due on Tuesday and that day I'll be at my mom's. Needs to be done by Monday. And of course keep working on my Node projects! Getting closer to linking up a db to my Url Shortener!! 

@@ -402,4 +402,25 @@ Went to NodeSchool Toronto today. It was the FCC field trip. lol. I worked on Sa
 
 I also picked up a couple of new stickers for my laptop: Digital Ocean Canadian shark and a NodeSchool Toronto sticker. Very nice.
 
-Tomorrow will be a full day: I must do my MongoDB Uni work! The homework is due on Tuesday and that day I'll be at my mom's. Needs to be done by Monday. And of course keep working on my Node projects! Getting closer to linking up a db to my Url Shortener!! 
+Tomorrow will be a full day: I must do my MongoDB Uni work! The homework is due on Tuesday and that day I'll be at my mom's. Needs to be done by Monday. And of course keep working on my Node projects! Getting closer to linking up a db to my Url Shortener!!
+
+##Day 28: January 29, 2017
+
+**Today's Progress:**
+
+OMG MOngoDB Uni was terribly dull today.
+
+2 hours of mind numbing pain.
+
+Oy.
+
+I'm heading back to the Mead Node.js course since it is covering basic MongoDB.
+
+Also, found a Webpack2 tut on Youtube. Looks good.
+Saving link here [Webpack2](https://www.youtube.com/watch?v=eWmkBNBTbMM)
+Will do this over the next week or so.
+
+More MongoDB in the Node.js course. Thanks to the previously mentioned dull course, this so far has been rather easy. 
+
+**Links to Work:**
+[todo app](https://github.com/Cyclokitty/todo-api)

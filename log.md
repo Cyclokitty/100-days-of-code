@@ -420,7 +420,20 @@ Also, found a Webpack2 tut on Youtube. Looks good.
 Saving link here [Webpack2](https://www.youtube.com/watch?v=eWmkBNBTbMM)
 Will do this over the next week or so.
 
-More MongoDB in the Node.js course. Thanks to the previously mentioned dull course, this so far has been rather easy. 
+More MongoDB in the Node.js course. Thanks to the previously mentioned dull course, this so far has been rather easy.
+
+**Links to Work:**
+[todo app](https://github.com/Cyclokitty/todo-api)
+
+## Day 29: January 30, 2017
+
+**Today's Progress:**
+
+Monday Means More MongoDB :)
+
+We moved on to Mongoose.js and Postman.
+
+Tonight, I read up on Mongoose docs for more work tomorrow. 
 
 **Links to Work:**
 [todo app](https://github.com/Cyclokitty/todo-api)

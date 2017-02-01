@@ -433,7 +433,22 @@ Monday Means More MongoDB :)
 
 We moved on to Mongoose.js and Postman.
 
-Tonight, I read up on Mongoose docs for more work tomorrow. 
+Tonight, I read up on Mongoose docs for more work tomorrow.
 
 **Links to Work:**
 [todo app](https://github.com/Cyclokitty/todo-api)
+
+## Day 30: January 31, 2017
+
+**Today's Progress:**
+
+Whoah! What a day! It first started terribly. None of my code worked. Nothing I read made sense. And I spent half the day frustrated as heck.
+
+Then I had an iced mocha and a slice of pizza and my code worked!
+
+AND NOW I'M NEARLY DONE MY URL SHORTENER!!!!!!!
+
+All that is left is hooking up to heroku and mLab and a bit of cleaning up. YAY!
+
+**Link to my work:**
+[my url shortener](https://github.com/Cyclokitty/short-url-service)

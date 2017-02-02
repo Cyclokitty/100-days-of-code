@@ -460,3 +460,15 @@ All that is left is hooking up to heroku and mLab and a bit of cleaning up. YAY!
 All theory reading today. Read YDKJS "Async & Performance" and Prof. "Frisby's Mostly Adequate Guide To Functional Programming".
 
 Looking forward to deploying my url shortener tomorrow!
+
+##Day 32: February 2, 2017
+
+**Today's Progress:**
+
+WOO FINALLY FINISHED AND DEPLOYED!
+
+My url shortener!! With mLab configed to heroku.
+
+Good times!
+
+[Puny Url Shortener](https://puny-url.herokuapp.com/)

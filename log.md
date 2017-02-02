@@ -452,3 +452,11 @@ All that is left is hooking up to heroku and mLab and a bit of cleaning up. YAY!
 
 **Link to my work:**
 [my url shortener](https://github.com/Cyclokitty/short-url-service)
+
+##Day 31: February 1, 2017
+
+**Today's Progress:**
+
+All theory reading today. Read YDKJS "Async & Performance" and Prof. "Frisby's Mostly Adequate Guide To Functional Programming".
+
+Looking forward to deploying my url shortener tomorrow!

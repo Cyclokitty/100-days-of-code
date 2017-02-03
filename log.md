@@ -472,3 +472,19 @@ My url shortener!! With mLab configed to heroku.
 Good times!
 
 [Puny Url Shortener](https://puny-url.herokuapp.com/)
+
+##Day 33: February 3, 2017
+
+**Today's Progress:**
+
+Spent some time answering questions on FCC's gitter chat.
+
+Set up my next backend api project: Image Search Abstraction Layer. I was worried I'd have trouble finding a free api for the image search. Google deprecated theirs but it can still be used.
+
+Found an nmp that solves all my problems. Set up the custom search engine and I'm off and running!
+
+It barely works but it's a start.
+
+I'm also thinking ahead to the bigger projects coming up soon. Like the voting app and the nightlife co-ordination app. Just getting some ideas and finding some tuts about using css, Sass, and Webpack2 in those bigger projects.
+
+[image-search-abstraction](https://github.com/Cyclokitty/image-search-abstraction/blob/master/app.js)

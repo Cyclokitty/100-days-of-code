@@ -471,6 +471,7 @@ My url shortener!! With mLab configed to heroku.
 
 Good times!
 
+**Link to my work:**
 [Puny Url Shortener](https://puny-url.herokuapp.com/)
 
 ##Day 33: February 3, 2017
@@ -487,4 +488,18 @@ It barely works but it's a start.
 
 I'm also thinking ahead to the bigger projects coming up soon. Like the voting app and the nightlife co-ordination app. Just getting some ideas and finding some tuts about using css, Sass, and Webpack2 in those bigger projects.
 
+**Link to my work:**
 [image-search-abstraction](https://github.com/Cyclokitty/image-search-abstraction/blob/master/app.js)
+
+##Day 34: February 4, 2017
+
+**Today's Progress:**
+
+YES! I finished my Image Search Abastraction project!
+
+It works. It reaches and changes the database. All I have left is setting up mLab and Heroku. Then, it's off to the next one!
+
+Also, I went to this week's FCC meetup downtown. It was nice. 
+
+**Link to my work:**
+[Image Search Abstraction](https://github.com/Cyclokitty/image-search-abstraction)

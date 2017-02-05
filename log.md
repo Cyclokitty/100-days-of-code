@@ -499,7 +499,19 @@ YES! I finished my Image Search Abastraction project!
 
 It works. It reaches and changes the database. All I have left is setting up mLab and Heroku. Then, it's off to the next one!
 
-Also, I went to this week's FCC meetup downtown. It was nice. 
+Also, I went to this week's FCC meetup downtown. It was nice.
 
 **Link to my work:**
 [Image Search Abstraction](https://github.com/Cyclokitty/image-search-abstraction)
+
+##Day 35: Feburary 5, 2017
+
+**Today's Progress:**
+
+Image search abstraction layer microservice is live! yay!
+
+I think it's time to nap and get ready for tomorrow's project. 
+
+**Link to my work**
+
+[My image search abstractor microservice](http://ck-image-search-machine.herokuapp.com/)

@@ -510,8 +510,22 @@ Also, I went to this week's FCC meetup downtown. It was nice.
 
 Image search abstraction layer microservice is live! yay!
 
-I think it's time to nap and get ready for tomorrow's project. 
+I think it's time to nap and get ready for tomorrow's project.
 
 **Link to my work**
 
 [My image search abstractor microservice](http://ck-image-search-machine.herokuapp.com/)
+
+##Day 36: February 6, 2017
+
+**Today's Progress:**
+
+Finished the final backend microservice api projects!
+
+Today, decided to do a project to prepare myself for the next 5 big Dynamic Web App Projects. Gonna combine ye olde weather app with a weather photo gallery. Changes may happen.
+
+Also, watched a couple of Wes Bos videos about his work stack and workflow and tooling. They were good. Signed up for his free command line power user course too. I really want iTerm.
+
+**Link to My Work:**
+
+[Image Metadata Abstraction Layer Project](https://cyclokitty-metadata-revealer.herokuapp.com/) 

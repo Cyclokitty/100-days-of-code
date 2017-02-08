@@ -526,8 +526,28 @@ Today, decided to do a project to prepare myself for the next 5 big Dynamic Web 
 
 Also, watched a couple of Wes Bos videos about his work stack and workflow and tooling. They were good. Signed up for his free command line power user course too. I really want iTerm.
 
-Installed iTerm2 and Oh My Zsh and a new theme for Oh My Zsh. It was a bit of a bear but it looks nice and bright. I upped the font size to prevent headaches. 
+Installed iTerm2 and Oh My Zsh and a new theme for Oh My Zsh. It was a bit of a bear but it looks nice and bright. I upped the font size to prevent headaches.
 
 **Link to My Work:**
 
 [Image Metadata Abstraction Layer Project](https://cyclokitty-metadata-revealer.herokuapp.com/)
+
+## Day 37: February 7, 2017
+
+**Today's Progress:**
+
+I did a whole bunch of things today:
+
+- worked more on the Mead Node.js course. I like Mongoose.
+
+- nearly perfected oh my zsh colours
+
+- and mocked up (in rough) my weather app project
+
+- worked on said weather app. I can get the lat and lon for a city and display it on the home route! Nice!!
+
+**Link To My Work:**
+
+[weather app thus far](https://cyclokitty-weather.herokuapp.com/)
+
+[todo app thus far](https://github.com/Cyclokitty/todo-api)

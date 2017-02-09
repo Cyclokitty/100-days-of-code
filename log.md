@@ -551,3 +551,19 @@ I did a whole bunch of things today:
 [weather app thus far](https://cyclokitty-weather.herokuapp.com/)
 
 [todo app thus far](https://github.com/Cyclokitty/todo-api)
+
+## Day 38: February 8, 2017
+
+**Today's Progress:**
+
+Meh. My todo app course frustrated me today. I had a heck of a time with some lost ; in my code for the server tests. Drove me around the bend for an hour! Finally just redid the entire page. It worked at last.
+
+Then because my brain was feeling a burnt, I decided to style my weather app using Bootstrap 4. Oy vey. It's better, kind of. At least the POST results go on a styled page rather than a couple of bland lines on a res.send.
+
+Tomorrow, I'm concentrating on the weather app. The todo course is taking forever. 
+
+**Link To My Work:**
+
+[weather app thus far](https://cyclokitty-weather.herokuapp.com/)
+
+[todo app thus far](https://github.com/Cyclokitty/todo-api)

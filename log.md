@@ -560,10 +560,22 @@ Meh. My todo app course frustrated me today. I had a heck of a time with some lo
 
 Then because my brain was feeling a burnt, I decided to style my weather app using Bootstrap 4. Oy vey. It's better, kind of. At least the POST results go on a styled page rather than a couple of bland lines on a res.send.
 
-Tomorrow, I'm concentrating on the weather app. The todo course is taking forever. 
+Tomorrow, I'm concentrating on the weather app. The todo course is taking forever.
 
 **Link To My Work:**
 
 [weather app thus far](https://cyclokitty-weather.herokuapp.com/)
 
 [todo app thus far](https://github.com/Cyclokitty/todo-api)
+
+##Day 39: February 9, 2017
+
+**Today's Progress:**
+
+I made a tweet bot and it is neat. I will read more of the docs tomorrow. I retweeted a few random tweets and favorited them too. Very cute.
+
+Then I used up a fair number of brain cells helping with a node question. A noob in fcc was confusing front end and backend and when to use the front end and when to use the backend, in particular with modules. It took a while to sort it out. I think he believed the front end is better done separately from the backend. It hurt my brain.
+
+**Link To Work:**
+
+[tweety-twitter](https://github.com/Cyclokitty/tweety)

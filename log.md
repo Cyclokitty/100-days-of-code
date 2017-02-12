@@ -589,6 +589,16 @@ Doing some vocabulary work today.
 - IIFEs
 - factory functions
 
-Haven't figured out if "recursive dynamic memoization" is a thing or what. 
+Haven't figured out if "recursive dynamic memoization" is a thing or what.
 
 @mpjme on youtube has great videos explaining all of the above. He's cool.
+
+## Day 41: February 12, 2017
+
+Worked some more on closures, currying, recursive, and Promises with @mpjme's videos.
+
+My weather app finally shows the weather for whatever city you enter! and it works on heroku!
+
+Now, set it up with a photo gallery and figure out a sign in. Hello, this weeks chores!
+
+[weather app](https://cyclokitty-weather.herokuapp.com/)

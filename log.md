@@ -579,3 +579,16 @@ Then I used up a fair number of brain cells helping with a node question. A noob
 **Link To Work:**
 
 [tweety-twitter](https://github.com/Cyclokitty/tweety)
+
+## Day 40: February 11, 2017
+
+Doing some vocabulary work today.
+
+- closures
+- currying
+- IIFEs
+- factory functions
+
+Haven't figured out if "recursive dynamic memoization" is a thing or what. 
+
+@mpjme on youtube has great videos explaining all of the above. He's cool.

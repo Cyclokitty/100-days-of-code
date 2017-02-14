@@ -622,4 +622,7 @@ So, the plan for my weather app is
   - have a weather themed photo gallery
   - have auth to comment on photos and to add to the gallery
 
-Whoah! Lots to do still! I better get cracking at it. 
+Whoah! Lots to do still! I better get cracking at it.
+
+**Links to Work:**
+[easy auth](https://functional-playroom.gomix.me/)

@@ -610,3 +610,16 @@ Well, filled up my 5 free apps on Heroku. I thought of making up a new account b
 I had to delete about a dozen projects from the first time I tried it out. Something tells me it'll be fine for my 5 dynamic web app projects!
 
 Worked some more on the Mead node.js project but got bored. I'm moving over to figuring out authorization using some tutorials I found. [scotch.io](https://scotch.io/tutorials/easy-node-authentication-setup-and-local)
+
+## Day 43: February 14, 2017
+
+Finished the first part of the passport authentication. Looks pretty straight forward.
+
+(famous last words)
+
+So, the plan for my weather app is
+  - have a weather finding app (done!)
+  - have a weather themed photo gallery
+  - have auth to comment on photos and to add to the gallery
+
+Whoah! Lots to do still! I better get cracking at it. 

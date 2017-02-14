@@ -602,3 +602,11 @@ My weather app finally shows the weather for whatever city you enter! and it wor
 Now, set it up with a photo gallery and figure out a sign in. Hello, this weeks chores!
 
 [weather app](https://cyclokitty-weather.herokuapp.com/)
+
+## Day 42: February 13, 2017
+
+Well, filled up my 5 free apps on Heroku. I thought of making up a new account but instead I'm trying out gomix.me.
+
+I had to delete about a dozen projects from the first time I tried it out. Something tells me it'll be fine for my 5 dynamic web app projects!
+
+Worked some more on the Mead node.js project but got bored. I'm moving over to figuring out authorization using some tutorials I found. [scotch.io](https://scotch.io/tutorials/easy-node-authentication-setup-and-local)

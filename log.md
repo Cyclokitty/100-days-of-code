@@ -626,3 +626,18 @@ Whoah! Lots to do still! I better get cracking at it.
 
 **Links to Work:**
 [easy auth](https://functional-playroom.gomix.me/)
+
+## Day 44: February 15, 2017
+
+**Today's Progress:**
+
+I'm getting comfortable building a webpack config file for my 5 dynamic web apps. Not terribly comfortable but softly comfy. I followed an online tut that makes a webpack.config.file. I did a stripped down version of it until I discovered webpack-dashboard. I love a fancy dashboard! It took some googling but I have it working.
+
+There is an hour long video tut I will do next. I think you make an app. Not sure. It was highly recommended.
+
+Then it's back on that wild React pony! I need it for the dynamic web apps.
+
+Still need to work on my weather gallery app but I feel the projects need more advanced setting up and the weather gallery app I planned won't do it. Upping my fullstack web dev skillz!
+
+**Links to Work:**
+[webpack-starter-kit](https://github.com/Cyclokitty/webpack-starter-kit)

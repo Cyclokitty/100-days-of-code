@@ -641,3 +641,16 @@ Still need to work on my weather gallery app but I feel the projects need more a
 
 **Links to Work:**
 [webpack-starter-kit](https://github.com/Cyclokitty/webpack-starter-kit)
+
+## Day 45: February 16, 2017
+
+I worked some more on Webpack and found an excellent and comprehensive video tut on youtube. OMG so much understanding. [Emil Oberg's webpack tutorial](https://www.youtube.com/watch?v=eWmkBNBTbMM&t=253s)
+
+Found another quick tutorial on youtube for React. It's a crash course. Goodness knows I need a crash course in React. So far, so good!
+[React JS Crash Course](https://www.youtube.com/watch?v=A71aqufiNtQ)
+
+**Links to Work:**
+
+[Webpack Tutorial](https://github.com/Cyclokitty/webpack-tut)
+
+[React crash course](https://github.com/Cyclokitty/react-crash)

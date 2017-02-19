@@ -661,4 +661,10 @@ Found another quick tutorial on youtube for React. It's a crash course. Goodness
 
 Found a data structures and algos book on Amazon today! I looked for any kind of js algo instruction book after a fruitless two hours on an FCC advanced algo: Inventory Update. My frickin' head hurts! It looked straight forward and I thought I had it nailed but no. Not even lightly pinned to a cork board.
 
-Lovely weather and it was too nice to spend it indoors at the Nodeschool coffee and code. Oops. Next month. 
+Lovely weather and it was too nice to spend it indoors at the Nodeschool coffee and code. Oops. Next month.
+
+
+## Day 47: February 19, 2017
+
+**Today's Progress:**
+Spent a couple of hours on CS50 course and the new data structures and algos book. I'm learning C language now! OOO!

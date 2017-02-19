@@ -654,3 +654,11 @@ Found another quick tutorial on youtube for React. It's a crash course. Goodness
 [Webpack Tutorial](https://github.com/Cyclokitty/webpack-tut)
 
 [React crash course](https://github.com/Cyclokitty/react-crash)
+
+##Day 46: February 18, 2017
+
+**Today's Progress:**
+
+Found a data structures and algos book on Amazon today! I looked for any kind of js algo instruction book after a fruitless two hours on an FCC advanced algo: Inventory Update. My frickin' head hurts! It looked straight forward and I thought I had it nailed but no. Not even lightly pinned to a cork board.
+
+Lovely weather and it was too nice to spend it indoors at the Nodeschool coffee and code. Oops. Next month. 

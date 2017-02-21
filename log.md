@@ -668,3 +668,11 @@ Lovely weather and it was too nice to spend it indoors at the Nodeschool coffee 
 
 **Today's Progress:**
 Spent a couple of hours on CS50 course and the new data structures and algos book. I'm learning C language now! OOO!
+
+## Day 48: February 20, 2017
+
+**Today's Progress:**
+
+Busy completing the video tutorial for wk 1 of CS50 and the first two assignments. I'm glad I've already set up and played with Cloud 9. I like new setups but I only had a couple of hours today to study and code. CS50's C9 IDE set up was painless and I already know my way around the folder, work screens and terminal. I like cli. Cli is fun.
+
+I began the Mario assignment today and it is trickier than I thought. 

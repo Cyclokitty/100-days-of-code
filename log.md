@@ -675,4 +675,10 @@ Spent a couple of hours on CS50 course and the new data structures and algos boo
 
 Busy completing the video tutorial for wk 1 of CS50 and the first two assignments. I'm glad I've already set up and played with Cloud 9. I like new setups but I only had a couple of hours today to study and code. CS50's C9 IDE set up was painless and I already know my way around the folder, work screens and terminal. I like cli. Cli is fun.
 
-I began the Mario assignment today and it is trickier than I thought. 
+I began the Mario assignment today and it is trickier than I thought.
+
+## Day 49: February 21, 2017
+
+Finished CS50's week 1 assignments and sent them in and they worked! Hoorah!
+
+Back to React. grumblegrumble I will love React.

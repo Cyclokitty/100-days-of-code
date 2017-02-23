@@ -682,3 +682,9 @@ I began the Mario assignment today and it is trickier than I thought.
 Finished CS50's week 1 assignments and sent them in and they worked! Hoorah!
 
 Back to React. grumblegrumble I will love React.
+
+## Day 50: February 22, 2017
+
+I enjoyed the CS50 course so much that I decided to watch week 2's video and work on the first assignment.
+
+The video was interesting and I finished the initials.c assignment pretty easily. I'll work on the next two tomorrow. 

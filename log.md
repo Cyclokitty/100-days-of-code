@@ -687,4 +687,8 @@ Back to React. grumblegrumble I will love React.
 
 I enjoyed the CS50 course so much that I decided to watch week 2's video and work on the first assignment.
 
-The video was interesting and I finished the initials.c assignment pretty easily. I'll work on the next two tomorrow. 
+The video was interesting and I finished the initials.c assignment pretty easily. I'll work on the next two tomorrow.
+
+## Day 51: February 23, 2017
+
+I spent a couple of hours on the caesar cipher. The video about how to work out the cipher was one of the best I've ever seen. I'm at the last part of the cipher and Ihave more thinking to do.

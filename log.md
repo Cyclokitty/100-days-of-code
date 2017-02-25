@@ -692,3 +692,9 @@ The video was interesting and I finished the initials.c assignment pretty easily
 ## Day 51: February 23, 2017
 
 I spent a couple of hours on the caesar cipher. The video about how to work out the cipher was one of the best I've ever seen. I'm at the last part of the cipher and Ihave more thinking to do.
+
+## Day 52: February 24, 2017
+
+Whooo boy. More work on the Caesar's cipher and I'm nearly there! It mostly works but if someone uses a largish number for a key (like 65) then the result alphabet search gets squirrely. I think I need a while loop to work it out. And then there is a line of code I need to return a message. I'll have to look back a bit in the notes and sort it out.
+
+Also, finished a chapter in the data structures and algos book. I'm learning about Stacks. it's quite cool.

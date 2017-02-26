@@ -698,3 +698,9 @@ I spent a couple of hours on the caesar cipher. The video about how to work out 
 Whooo boy. More work on the Caesar's cipher and I'm nearly there! It mostly works but if someone uses a largish number for a key (like 65) then the result alphabet search gets squirrely. I think I need a while loop to work it out. And then there is a line of code I need to return a message. I'll have to look back a bit in the notes and sort it out.
 
 Also, finished a chapter in the data structures and algos book. I'm learning about Stacks. it's quite cool.
+
+## Day 53: February 25, 2017
+
+Finished the Caesars Cipher! It works! It passed the tests! It's over 200 lines of code!
+
+Still have the crack the passwoard question to do. I sped thru it and made a mess of it. I was tired.

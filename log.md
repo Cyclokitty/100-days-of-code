@@ -704,3 +704,15 @@ Also, finished a chapter in the data structures and algos book. I'm learning abo
 Finished the Caesars Cipher! It works! It passed the tests! It's over 200 lines of code!
 
 Still have the crack the passwoard question to do. I sped thru it and made a mess of it. I was tired.
+
+##Day 54: February 27, 2017
+
+**Today's Progress:**
+
+Answered a couple of questions on the FCC gitter chat.
+
+Decided to try out Vuejs rather than suffering more with React. So far, so good. Tomorrow I will re-build my nasa pic of the day page with Vue.
+
+**Links to Work:**
+
+[practice_vue](https://github.com/Cyclokitty/practice_vue)

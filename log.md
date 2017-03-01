@@ -722,4 +722,7 @@ Decided to try out Vuejs rather than suffering more with React. So far, so good.
 **Today's Progress:**
 Worked on wk1 Effective Thinking Thru Mathematics and I didn't solve the Meanie Genie question. But I did learn something interesting about myself: in the puzzle, you get 9 identical stones and one has the priceless jewel in it. The one with the jewel is slightly heavier and all you get to find it is two balancing scales you can only use each once. My solution was use the scales to crush the stones. Sometimes....
 
-Then, I went back to React to kiss and make up! We're still sorting out our differences and working together for a better future. I hope. 
+Then, I went back to React to kiss and make up! We're still sorting out our differences and working together for a better future. I hope.
+
+**Link to Work:**
+[react tut](https://github.com/Cyclokitty/greetingReact)

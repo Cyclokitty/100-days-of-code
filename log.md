@@ -739,3 +739,14 @@ Tomorrow, we dance with React!
 
 **Link to Work:**
 [FCC Leaderboard](https://github.com/Cyclokitty/FCC-Leaderboard)
+
+##Day 57: March 2, 2017
+
+**Today's Progress:**
+
+YES! My React table works!I still have to toggle from top in 30 days to top of alltime but the table works!! Hurray!
+
+Wow, my brain just aches but in a good way. 
+
+**Link to Work:**
+[FCC Leaderboard](https://github.com/Cyclokitty/FCC-Leaderboard)

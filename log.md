@@ -726,3 +726,16 @@ Then, I went back to React to kiss and make up! We're still sorting out our diff
 
 **Link to Work:**
 [react tut](https://github.com/Cyclokitty/greetingReact)
+
+##Day 56: March 1, 2017
+
+**Today's Progress:**
+
+Ok, so I brushed up on some basic React and decided to swing right into chaos and begin the second React project: the fcc leaderboard.
+
+Set up the body. Made the header and footer. Set up Sass(scss) and I made a rough plan for the table in the center of the project.
+
+Tomorrow, we dance with React!
+
+**Link to Work:**
+[FCC Leaderboard](https://github.com/Cyclokitty/FCC-Leaderboard)

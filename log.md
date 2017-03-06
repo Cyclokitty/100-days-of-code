@@ -771,3 +771,14 @@ Tomorrow. I shall do these things tomorrow!
 
 **Link to Work:**
 [FCC Leaderboard](https://github.com/Cyclokitty/FCC-Leaderboard)
+
+##Day 59: March 6, 2017
+
+**Today's Progress:**
+
+Well, I did it! I finished my long dreaded, FCC second React project and it was much more straight forward than I thought. I really chickened out over this project and for rather ridiculous reasons. I'm quite proud of what I made and I'm glad I made it! I pushed it to gh-pages and it now lives online and I linked my source code as well. Good stuff, me!
+
+Now, to work on my application for the summer internship I found. There is a cool mini project to go with it that I'm keen to work on.
+
+**Link to Work:**
+[FCC 2nd React Project!](https://cyclokitty.github.io/FCC-Leaderboard/)

@@ -746,7 +746,28 @@ Tomorrow, we dance with React!
 
 YES! My React table works!I still have to toggle from top in 30 days to top of alltime but the table works!! Hurray!
 
-Wow, my brain just aches but in a good way. 
+Wow, my brain just aches but in a good way.
+
+**Link to Work:**
+[FCC Leaderboard](https://github.com/Cyclokitty/FCC-Leaderboard)
+
+##Day 58: March 5, 2017
+
+**Today's Progress:**
+
+I took a couple of days off because React was burning a hole in my brain. Learning is stressful and if I'm not making inroads or feeling like I've figured out something (even if it is a mistake -- it is something) then this all gets tiresome.
+
+I visited my mom. Helped with the House Panther's vet appointment. Then, read the latest Sophie Kinsella book. Caught up on naps, laundry and The Killings on netflix.
+
+Today was very good! I added the buttons to the React camper leaderboard project and made them work. Hooray!
+
+There are still a few things to do.
+
+1) It needs to show if we're looking at the top in 30 days or the alltime top campers.
+
+2) It needs to work on gomix.me
+
+Tomorrow. I shall do these things tomorrow!
 
 **Link to Work:**
 [FCC Leaderboard](https://github.com/Cyclokitty/FCC-Leaderboard)

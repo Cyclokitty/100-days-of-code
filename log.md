@@ -782,3 +782,12 @@ Now, to work on my application for the summer internship I found. There is a coo
 
 **Link to Work:**
 [FCC 2nd React Project!](https://cyclokitty.github.io/FCC-Leaderboard/)
+
+#Day 60: March 7, 2017
+
+**Today's Progress:**
+
+Decided to learn how to make a js library. It's tougher than it looks. I followed a tut and made a cat-namer library. You get a random cat name from a .json. Very cute. Not quite what I had in mind so more searching and coding tomorrow!
+
+**Links to work:**
+[cat-namer](https://github.com/Cyclokitty/cat-namer)

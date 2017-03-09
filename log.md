@@ -791,3 +791,12 @@ Decided to learn how to make a js library. It's tougher than it looks. I followe
 
 **Links to work:**
 [cat-namer](https://github.com/Cyclokitty/cat-namer)
+
+# Day 61: March 8, 2017
+
+**Today's Progress:**
+
+Battled an awful headache today and did not do much other than light research into my cost pricing library. That's my new project! This will give me a chance to learn testing as well as building a small library. I'm using Mocha and Chai for the testing. The base files for the cost pricing library are set up. Next step, plan out the library!
+
+**Link to Work:**
+[pricer](https://github.com/Cyclokitty/pricer)

@@ -800,3 +800,19 @@ Battled an awful headache today and did not do much other than light research in
 
 **Link to Work:**
 [pricer](https://github.com/Cyclokitty/pricer)
+
+
+# Day 62: March 9, 2017
+
+**Today's Progress:**
+
+I had a solid day of learning and discoveries!
+
+1) I returned to codewars and completed an algo. Basically figuring out making basic Array.prototype functions. It took some googling but I got it! yay!
+
+2) I need tests for my pricer project so I did some googling and looked up tuts for Mocha and Chai. I found some really long, verbose tuts and some really long, and verbose with poor sound quality youtube tuts. I found a nice, brief video that got me started: (https://www.youtube.com/watch?v=0AAIbEAyFxg). Then I went back to the Mocha and Chai docs and sorted out some basic tests. It's just as important to fail the tests as to pass them. In fact, perhaps more important to fail them and figure out what went wrong. In my case, I messed up a function, a require file, and even giving the name of the function I just wrote.
+
+A+ day. Will do again!
+
+**Link to Work:**
+[mocha-chai-tester](https://github.com/Cyclokitty/Mocha-Chai-Tester)

@@ -818,3 +818,18 @@ A+ day. Will do again!
 [mocha-chai-tester](https://github.com/Cyclokitty/Mocha-Chai-Tester)
 
 [pricer](https://github.com/Cyclokitty/pricer)
+
+#Day 63: March 10, 2017
+
+**Today's Progress:**
+
+I wrote the function for my pricer library and it works really well. The function needs some polishing up and needs some tests. That's tomorrow's fun stuff.
+
+As well, I finished another algo on codewars. oh my. It was over 120 lines long. The answers were more like a few lines to half dozen lines long. In my defense (if there is one), I used a switch statement. Those are always so long.
+
+I added a few names to my cat-namer library. I still need to sort out some npm details before it can go live. 
+
+**Link to Work:**
+[cat-namer](https://github.com/Cyclokitty/cat-namer)
+
+[pricer](https://github.com/Cyclokitty/pricer)

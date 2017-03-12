@@ -827,9 +827,27 @@ I wrote the function for my pricer library and it works really well. The functio
 
 As well, I finished another algo on codewars. oh my. It was over 120 lines long. The answers were more like a few lines to half dozen lines long. In my defense (if there is one), I used a switch statement. Those are always so long.
 
-I added a few names to my cat-namer library. I still need to sort out some npm details before it can go live. 
+I added a few names to my cat-namer library. I still need to sort out some npm details before it can go live.
 
 **Link to Work:**
 [cat-namer](https://github.com/Cyclokitty/cat-namer)
 
 [pricer](https://github.com/Cyclokitty/pricer)
+
+## Day 64: March 12, 2017
+
+**Today's Progress:**
+OO this was a good, good day. I:
+* completed a codewar kata
+* watched wk 3's CS50 lecture video
+* wrote tests for my pricer project (and they work)
+* planned out a React project for my portfolio: basically the nasa photo of the day but built with React. Thinking of doing the same with the Scarborough Fare page.
+
+All in all, excellent stuff. Now, some light Saturday night reading about data structures. (lol)
+
+Tomorrow, I'm finishing up (finally) the cat-namer library and publishing it to npm. 
+
+**Links to Work:**
+
+[pricer](https://github.com/Cyclokitty/pricer)
+[Nasa photo of the day in React](https://github.com/Cyclokitty/nasaPhotoOfDay)

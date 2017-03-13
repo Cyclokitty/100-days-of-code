@@ -845,9 +845,19 @@ OO this was a good, good day. I:
 
 All in all, excellent stuff. Now, some light Saturday night reading about data structures. (lol)
 
-Tomorrow, I'm finishing up (finally) the cat-namer library and publishing it to npm. 
+Tomorrow, I'm finishing up (finally) the cat-namer library and publishing it to npm.
 
 **Links to Work:**
 
 [pricer](https://github.com/Cyclokitty/pricer)
 [Nasa photo of the day in React](https://github.com/Cyclokitty/nasaPhotoOfDay)
+
+#Day 65: March 13, 2017
+
+**Today's Progress:**
+
+Great day! I published to npm my first library! It's my cat-namer. Added testing (works!). Added badges to my readme.file (looks neat!). And I picked up a free 3 month membership to Pluralsight so I can learn from Kyle Simpson (YDKJS).
+
+**Links to Work:**
+(cat-namer on npm)[https://www.npmjs.com/package/cat-namer]
+(cat-namer on Github)[https://github.com/Cyclokitty/cat-namer]

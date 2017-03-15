@@ -861,3 +861,14 @@ Great day! I published to npm my first library! It's my cat-namer. Added testing
 **Links to Work:**
 (cat-namer on npm)[https://www.npmjs.com/package/cat-namer]
 (cat-namer on Github)[https://github.com/Cyclokitty/cat-namer]
+
+## Day 66: March 14, 2017
+
+yes, I know. It's Pi Day.
+
+Great day! Worked some more on Kyle Simpson's course.
+
+Completed homework for the lambdaschool mini bootcamp. I'm happy to say it was very, very easy. Only googled the areas of triangles, and circles and a prism. Hey, geometry class was ages ago!
+
+[advanced js course](https://github.com/Cyclokitty/advanced-js)
+[lambda mini bootcamp](https://github.com/Cyclokitty/advanced-js)

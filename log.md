@@ -886,3 +886,19 @@ Whoa, tired and hungry!
 [NASA photo of day with React](https://github.com/Cyclokitty/nasaPhotoOfDay)
 [lambdaschool day 2](https://github.com/Cyclokitty/lambdaschool)
 [Advanced JS](https://github.com/Cyclokitty/advanced-js)
+
+#Day 68: March 16, 2017
+
+**today's Progress:**
+
+A low key kind of day. I worked some more on the work 3 CS50 course. Video watching about Big O Notation. I discovered Khan Academy has lots of information about Big O and I've started there as well.
+
+Then I watched the video and did the homework for lambdaschool. Objects this time and it was good practice.
+
+Still need to finish up my React project and work on my resume. That's this weekend's work.
+
+Tomorrow, I'm spending the day with my mom but I have loaded up plenty of theory reading on my iPad for the long bus ride there and back.
+
+**Links to Work:**
+
+[lambdaschool day 3](https://github.com/Cyclokitty/lambdaschool3)

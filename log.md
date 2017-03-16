@@ -872,3 +872,17 @@ Completed homework for the lambdaschool mini bootcamp. I'm happy to say it was v
 
 [advanced js course](https://github.com/Cyclokitty/advanced-js)
 [lambda mini bootcamp](https://github.com/Cyclokitty/advanced-js)
+
+#Day 67: March 15, 2017
+
+**Today's Progress:**
+
+I had a great day! Nearly finished my React NASA photo of the day page, did my homework for day 2 of lambdaschool, and did another hour of Kyle Simpson's Advanced JS course.
+
+Whoa, tired and hungry!
+
+**Links to Work:**
+
+[NASA photo of day with React](https://github.com/Cyclokitty/nasaPhotoOfDay)
+[lambdaschool day 2](https://github.com/Cyclokitty/lambdaschool)
+[Advanced JS](https://github.com/Cyclokitty/advanced-js)

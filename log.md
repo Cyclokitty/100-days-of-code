@@ -902,3 +902,13 @@ Tomorrow, I'm spending the day with my mom but I have loaded up plenty of theory
 **Links to Work:**
 
 [lambdaschool day 3](https://github.com/Cyclokitty/lambdaschool3)
+
+#Day 69: March 17, 2017
+
+**Today's Progress:**
+
+On my bus ride, I read some data structure theory, some DOM Enlightenment, some Clean Coder, and some YDKJS. As well, joined the Giraffe cohort for the Chingu group.
+
+Then, when I arrived at home, I set up the final day of homework for lambdaschool, worked on styling my React NASA photo of the day, and added this bit of logging.
+
+Tomorrow, I'm heading to NodeschoolTO downtown. I also have to go over my resume because on Monday I'm sending in my internship application!

@@ -912,3 +912,16 @@ On my bus ride, I read some data structure theory, some DOM Enlightenment, some 
 Then, when I arrived at home, I set up the final day of homework for lambdaschool, worked on styling my React NASA photo of the day, and added this bit of logging.
 
 Tomorrow, I'm heading to NodeschoolTO downtown. I also have to go over my resume because on Monday I'm sending in my internship application!
+
+#Day 70: March 18, 2017
+
+**Today's Progress:**
+
+Finished my React Nasa photo of the day. I don't like how the background image only fits when the screen is relatively small. Need to sort that out. Maybe add bootstrap?
+
+Updated my portfolio. Switched out a couple of pages and added the React Nasa one and my npm library cat-namer. Also scrubbed up some details a bit.
+
+**Link to Work:**
+
+[Nasa Photo of Day](https://cyclokitty.github.io/nasaPhotoOfDay/)
+[Portfolio](https://cyclokitty.github.io/)

@@ -925,3 +925,21 @@ Updated my portfolio. Switched out a couple of pages and added the React Nasa on
 
 [Nasa Photo of Day](https://cyclokitty.github.io/nasaPhotoOfDay/)
 [Portfolio](https://cyclokitty.github.io/)
+
+#Day 74: March 22, 2017
+
+***WHOOPS!Forgot to post for a few days!***
+
+**today's Progress:**
+
+I finished day 4 of the lambdaschool course. It was a good reminder and refresher for objects and prototypes. I'm glad I did it.
+
+Found a neat js stack tut to build my big projects: [https://github.com/verekia/js-stack-from-scratch] Right now, it feels like it's too much stuff. I guess I'll see how it works once I'm done building my new stack. I call it [cyclokitt-boilerplate](https://github.com/Cyclokitty/cyclokitty-boilerplate). I remembered to star all of the github library repos so I can review them tonight.
+
+Finally, I completed my internship application yesterday. I'm really hoping I get a call back for the interview this Saturday!! The calls begin tomorrow afternoon and until Friday. Meanwhile, I have this stack tut to complete and my next React project to build. I've also committed myself to building a slack bot in the Chingu-Giraffe cohort. Ok, so some more reading!
+
+**Links to work:**
+
+[cyclokitty-boilerplate](https://github.com/Cyclokitty/cyclokitty-boilerplate)
+
+[lambdaschool day 4](https://github.com/Cyclokitty/lambdaschool4)

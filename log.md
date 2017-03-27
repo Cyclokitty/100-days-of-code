@@ -943,3 +943,17 @@ Finally, I completed my internship application yesterday. I'm really hoping I ge
 [cyclokitty-boilerplate](https://github.com/Cyclokitty/cyclokitty-boilerplate)
 
 [lambdaschool day 4](https://github.com/Cyclokitty/lambdaschool4)
+
+#Day 75: March 27, 2017
+
+**Today's Progress:**
+
+I took several days off of coding because I had a internship interview on Friday and I was wiped out! So tired! I needed a few days away from projects and theory and boilerplate building.
+
+The interview was cool. I think I did well and I'm waiting for a call or email. I'm hoping I made it to the next round.
+
+Meanwhile, I took my internship project and turned it into a pirate themed command-line app. It works! Still need to figure out how to test yargs with Mocha and Chai. I keep getting the yargs demands for flagged argvs. I'll come back to it tomorrow.
+
+**Links to work:**
+
+[arr_pricer](https://github.com/Cyclokitty/arrr_pricer)

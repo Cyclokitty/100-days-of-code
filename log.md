@@ -957,3 +957,16 @@ Meanwhile, I took my internship project and turned it into a pirate themed comma
 **Links to work:**
 
 [arr_pricer](https://github.com/Cyclokitty/arrr_pricer)
+
+#Day 76: March 28, 2017
+
+**Today's Progress:**
+
+I did lots of stuff today! Finished my arrr_pricer (pirate themed pricing app) which is just like my pricer app project but more piratey.
+
+Also, built a slack bat @bad.kitty who is awful. I love him!
+
+**Links to work:**
+
+[arr_pricer](https://github.com/Cyclokitty/arrr_pricer)
+[badkittybot](https://github.com/Cyclokitty/badkittybot)

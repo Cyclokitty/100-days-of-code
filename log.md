@@ -970,3 +970,15 @@ Also, built a slack bat @bad.kitty who is awful. I love him!
 
 [arr_pricer](https://github.com/Cyclokitty/arrr_pricer)
 [badkittybot](https://github.com/Cyclokitty/badkittybot)
+
+#Day 77: March 29, 2017
+
+**Today's Progress:**
+
+Well, sad news. I'm not going to the next level of interveiws. Such is life. There are plenty of dev jobs to apply to and I'll keep on it.
+
+I did get my bad.kitty slack bot running on Heroku. I also tried running it on glitch.me but it was so convoluted and messy I went back to Heroku. Must remember that something like a bot that isn't running with a web page uses a worker in the Procfile rather than web. And to turn off the web and turn on the worker in the Heroku resources page. It works! Now a very unhelpful cat does not inspire users. LOL!
+
+**Links to Work:**
+
+[badkittybot](https://github.com/Cyclokitty/badkittybot)

@@ -982,3 +982,15 @@ I did get my bad.kitty slack bot running on Heroku. I also tried running it on g
 **Links to Work:**
 
 [badkittybot](https://github.com/Cyclokitty/badkittybot)
+
+#Day 78: April 1, 2017
+
+**Today's Progress:**
+
+I took a few days off for rest and relaxation. It was a long week and I needed a break.
+
+Today, I decided I need another foray into algorithms and programming with only JS. I completed 16 of the 8kyu algos in codewars. I did surprisingly well with the math questions.
+
+yay me!
+
+Also decided to stop worrying about React and go ahead with the voting app sans React. 

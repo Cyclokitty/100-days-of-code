@@ -993,4 +993,12 @@ Today, I decided I need another foray into algorithms and programming with only 
 
 yay me!
 
-Also decided to stop worrying about React and go ahead with the voting app sans React. 
+Also decided to stop worrying about React and go ahead with the voting app sans React.
+
+#Day 79: April 2, 2017
+
+**Today's Progress:**
+
+More algos... completed 19 of them. And learned and practiced loads of methods -- especially array methods.
+
+Need to make a list of the algos I've completed and upload them to Github. Tomorrow's task!

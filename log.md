@@ -1002,3 +1002,11 @@ Also decided to stop worrying about React and go ahead with the voting app sans 
 More algos... completed 19 of them. And learned and practiced loads of methods -- especially array methods.
 
 Need to make a list of the algos I've completed and upload them to Github. Tomorrow's task!
+
+#Day 80: April 3, 2017
+
+**Today's Progress:**
+
+And more algos. Due to internet going down all day long (I sent in a ticket), I only managed a dozen algos.
+
+Think I need a break from the algo grinding. I'll do only a few tomorrow. Otherwise, tomorrow will be a web page building kind of day.

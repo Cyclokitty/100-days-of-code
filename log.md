@@ -1010,3 +1010,13 @@ Need to make a list of the algos I've completed and upload them to Github. Tomor
 And more algos. Due to internet going down all day long (I sent in a ticket), I only managed a dozen algos.
 
 Think I need a break from the algo grinding. I'll do only a few tomorrow. Otherwise, tomorrow will be a web page building kind of day.
+
+#Day 81: April 4, 2017
+
+**Today's Progress:**
+
+Did more algos and reached 5kyu! Woot!
+
+Then helped a few people on fcc gitter chat.
+
+I ate poptarts. 

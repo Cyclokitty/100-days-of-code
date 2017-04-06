@@ -1034,3 +1034,15 @@ Tomorrow, I have to learn chart.js and come up with something to vote on. I'm th
 **Links to progress:**
 
 [voting app](https://github.com/Cyclokitty/voting-app)
+
+#Day 83: April 6, 2017
+
+**Today's Progress:**
+
+It was a rainy day. So I coded. My slack chat bot partner pushed some code to our project so I pulled it. Did that locally too with a fetch and a pull. New and improved bad.kitty bot works really well!
+
+I also worked on chart.js. It took some fiddling to change the default fonts, size, and color but I figured out you have to change the defaults.global BEFORE you create a new instance of Chart. And then Ba-Booom! New chart showing off my fav donut flavours! Very easy.
+
+**Links to Work:**
+(bad.kitty slack bot)[https://github.com/Cyclokitty/badkittybot]
+(donut doughnut chart)[http://codepen.io/Cyclokitty/full/xqNQjX/]

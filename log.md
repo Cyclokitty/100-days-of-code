@@ -1019,4 +1019,18 @@ Did more algos and reached 5kyu! Woot!
 
 Then helped a few people on fcc gitter chat.
 
-I ate poptarts. 
+I ate poptarts.
+
+#82: April 5, 2017
+
+**Today's Progress:**
+
+Spent today building my FCC dynamic app: voting app. Mostly set up the skeleton, played with various templating engines like ejs, hbs, and nunjucks. Nunjucks won! Hurrah, Nunjucks! You got the job.
+
+It does nothing but show a row of nonsense on the index.html. I did a tester for /:words and Nunjacks is definitely working. You type a params and it shows up as the heading in the /:words link. Good stuff!
+
+Tomorrow, I have to learn chart.js and come up with something to vote on. I'm thinking radio buttons. Then, learn passport and auth.
+
+**Links to progress:**
+
+[voting app](https://github.com/Cyclokitty/voting-app)

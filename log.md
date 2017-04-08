@@ -1046,3 +1046,13 @@ I also worked on chart.js. It took some fiddling to change the default fonts, si
 **Links to Work:**
 (bad.kitty slack bot)[https://github.com/Cyclokitty/badkittybot]
 (donut doughnut chart)[http://codepen.io/Cyclokitty/full/xqNQjX/]
+
+#Day 84: April 7, 2017
+
+**Today's Progress:**
+
+I spent today working on RESTful APIs. The tut I found is really well laid out and it makes more sense than some of the ones I've watched in the past.
+
+**Link to Work:**
+
+[RESTful API](https://github.com/Cyclokitty/restful)

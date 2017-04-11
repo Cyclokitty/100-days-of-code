@@ -1065,3 +1065,15 @@ Started working on a node.js app: Tell Me Your Name. Mostly, I want to work on R
 
 **Link to Work:**
 [Tell Me Your Name](https://github.com/Cyclokitty/tellmeyourname)
+
+#Day 86: April 11, 2017
+
+**Today's Progress:**
+
+I worked some more on my tellmeyourname project. Got the name to show up on a nice page,animated with rainbow colours. A unicorn flies over head. Tomorrow, I'm adding some images to the grassy part of the page. Cats on one side. Plants on the other. It's already hosted on glitch.me
+
+Also decided, since I'm sure some people will type in rude words in the form (lol), I'm going to keep a database for the form entries. For fun. Why not?
+
+**Link to Work:**
+[Tell Me Your Name](https://github.com/Cyclokitty/tellmeyourname)
+[Tell Me Your Name webpage](https://vine-passive.glitch.me/)

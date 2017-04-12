@@ -1077,3 +1077,15 @@ Also decided, since I'm sure some people will type in rude words in the form (lo
 **Link to Work:**
 [Tell Me Your Name](https://github.com/Cyclokitty/tellmeyourname)
 [Tell Me Your Name webpage](https://vine-passive.glitch.me/)
+
+#Day 87: April 12, 2017
+
+**Today's Progress:**
+
+Great day! I made a cute pot of flowers in Pixelmator and added it to the tellmeyourname web app. I also made a cat image but it was scary looking. Yeah, not nice. So, pot of flowers it is! They fit. They respond. They work.
+
+Then, I wired up a db to collect names. Still need to make a super secret url to show off the names entered. Later.
+
+**Link to Work:**
+[Tell Me Your Name](https://github.com/Cyclokitty/tellmeyourname)
+[Tell Me Your Name webpage](https://vine-passive.glitch.me/)

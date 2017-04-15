@@ -1094,8 +1094,23 @@ Then, I wired up a db to collect names. Still need to make a super secret url to
 
 **Today's Progres:**
 
-Finished my flying unicorn mini node.js project! Woo! it works. Hurrah! I now have no excuse not to start the voting app. 
+Finished my flying unicorn mini node.js project! Woo! it works. Hurrah! I now have no excuse not to start the voting app.
 
 **Link to Work:**
 [Tell Me Your Name](https://github.com/Cyclokitty/tellmeyourname)
 [Tell Me Your Name webpage](https://vine-passive.glitch.me/)
+
+#Day 89: April 15, 2017
+
+**Today's Progress:**
+
+Added tellmeyourname project to my portfolio.
+
+Studied a bit of advanced node.js course on Pluralsight. Lots to learn!
+
+And researched web scraping for a future project.
+
+Finally, sketched out what I want my voting app to do. Still more to be done but I believe I can start the first page tomorrow.
+
+**Link to Work:**
+[Updated my portfolio](https://cyclokitty.github.io/)

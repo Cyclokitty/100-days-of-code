@@ -1089,3 +1089,13 @@ Then, I wired up a db to collect names. Still need to make a super secret url to
 **Link to Work:**
 [Tell Me Your Name](https://github.com/Cyclokitty/tellmeyourname)
 [Tell Me Your Name webpage](https://vine-passive.glitch.me/)
+
+#Day 88: April 14, 2017
+
+**Today's Progres:**
+
+Finished my flying unicorn mini node.js project! Woo! it works. Hurrah! I now have no excuse not to start the voting app. 
+
+**Link to Work:**
+[Tell Me Your Name](https://github.com/Cyclokitty/tellmeyourname)
+[Tell Me Your Name webpage](https://vine-passive.glitch.me/)

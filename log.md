@@ -1114,3 +1114,23 @@ Finally, sketched out what I want my voting app to do. Still more to be done but
 
 **Link to Work:**
 [Updated my portfolio](https://cyclokitty.github.io/)
+
+#Day 90: April 16, 2017
+
+**Today's Progress:**
+
+A solid day of coding and learning!
+
+I'm concentrating on building my voting app and I worked on a few key areas:
+
+  * added the signup, login, and about routes for the app
+  * added a navbar partial (this was tricky since I haven't used Nunjucks much. But I figured it out. It was easy!)
+  * practiced using chart.js in codepen.io and I'm much better at making the poll. I'll have no problem setting up polls but a logged in user should also be able to make polls.
+
+I totally hate the overall appearance of the app. Why am I drawn to colour schemes that remind me of high school sports teams' uniforms?
+
+
+**Link to Work:**
+[Voting App](https://github.com/Cyclokitty/voting-app)
+
+[Chart.js practice](http://codepen.io/Cyclokitty/pen/OmVxrK?editors=1010)

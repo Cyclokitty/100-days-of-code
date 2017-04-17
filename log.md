@@ -1134,3 +1134,18 @@ I totally hate the overall appearance of the app. Why am I drawn to colour schem
 [Voting App](https://github.com/Cyclokitty/voting-app)
 
 [Chart.js practice](http://codepen.io/Cyclokitty/pen/OmVxrK?editors=1010)
+
+#Day 91: April 17, 2017
+
+**Today's Progress:**
+
+Another good day of coding. I decided that there was too much repetition of html code for my different routes in the voting app. A lot is used over and and over again. Like the header, footer and nav bar. I broke those down into partials and now the routes reference the partials. It's much neater looking.
+
+Then, worked some more on the chart building. It's all mock-up stuff and won't be used for the voting app. But it's hard to tell if the chart making works without some vote numbers to show off a chart. I made a fake number maker. It has a random number picker in a function that runs the random number picker the same amount as the voting categories. Then that array is used to show off the "past" voting results. A lot of work for not much use but I was sick of hard coding fake numbers.
+
+Next step, actually getting the user categories to make the dropdown and add 1 to the fake number in the array.
+
+**Link to Work:**
+[Voting App](https://github.com/Cyclokitty/voting-app)
+
+[Chart.js practice](http://codepen.io/Cyclokitty/pen/wdKaoR?editors=0010)

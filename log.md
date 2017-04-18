@@ -1149,3 +1149,14 @@ Next step, actually getting the user categories to make the dropdown and add 1 t
 [Voting App](https://github.com/Cyclokitty/voting-app)
 
 [Chart.js practice](http://codepen.io/Cyclokitty/pen/wdKaoR?editors=0010)
+
+#Day 92: April 18, 2017
+
+**Today's Progress:**
+
+There were good things about today and bad things.
+  * good things: figured out how to make a list from an array in a nunjucks list
+  * bad things: it's harder than I thought making one chart set up and reusing it for every poll in my fake data. 
+
+**Link to Work:**
+[Voting App](https://github.com/Cyclokitty/voting-app)

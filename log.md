@@ -1156,7 +1156,39 @@ Next step, actually getting the user categories to make the dropdown and add 1 t
 
 There were good things about today and bad things.
   * good things: figured out how to make a list from an array in a nunjucks list
-  * bad things: it's harder than I thought making one chart set up and reusing it for every poll in my fake data. 
+  * bad things: it's harder than I thought making one chart set up and reusing it for every poll in my fake data.
 
 **Link to Work:**
+[Voting App](https://github.com/Cyclokitty/voting-app)
+
+#Day 93: April 19, 2017
+
+**Today's Progress:**
+
+Mostly worked on some algos, answered a few questions in fcc js help gitter chat, and moaned about my voting app.
+
+#Day 94: April 20, 2017
+
+**Today's Progress:**
+
+Decided to work on the fcc beta basic js algos and commit the results to github in case I feel like doing them when fcc goes live.
+
+Still moaned about the voting app.
+
+**Links to work:**
+
+[fcc algos](https://github.com/Cyclokitty/fccAlgos)
+
+#Day 95: April 24, 2017
+
+**Today's Progress:**
+
+Stopped moaning about my voting app and worked on the mongoose connection to the db.
+
+Works!
+
+Even got it sharing info about the different polls I set up in the db. yay!
+
+The more I look at the app, the more I hate it's appearance. The colours are wrong. The font is meh. And the layout is lousy and boring. Gotta work on it.
+
 [Voting App](https://github.com/Cyclokitty/voting-app)

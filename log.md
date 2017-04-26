@@ -1192,3 +1192,15 @@ Even got it sharing info about the different polls I set up in the db. yay!
 The more I look at the app, the more I hate it's appearance. The colours are wrong. The font is meh. And the layout is lousy and boring. Gotta work on it.
 
 [Voting App](https://github.com/Cyclokitty/voting-app)
+
+# Day 96: April 25, 2017:
+
+**Today's Progress:**
+
+I fiddled with the design and layout for the voting app. Mostly thinking of using cards rather than a list for all of the polls. I still hate the colours and I must have been channelling an early 90s sports clothes designer because it was all brights and contrasts. It was awful. Still, I'm liking the cards layout much more than the list.
+
+Also, returned to Hack Reactor Prep course because one of my goals in the next 100 Days of Code is to finish all of the Advanced Algos in fcc. As well as concentrating on React.js. Like, a few hours to many hours each day building and tearing apart my front end projects using React. A solid js foundation is required. Fortunately, the algos work I've been doing over the last few months have really helped. It's obvious I need more work on objects but it was much easier than when I first gave hack Reactor Prep a try the first time.
+
+**Links to work:**
+
+[Hack Reactor Prep algos](https://github.com/Cyclokitty/hackreactorprep)

@@ -1204,3 +1204,13 @@ Also, returned to Hack Reactor Prep course because one of my goals in the next 1
 **Links to work:**
 
 [Hack Reactor Prep algos](https://github.com/Cyclokitty/hackreactorprep)
+
+# Day 97: April 26, 2017
+
+**Today's Progress:**
+
+So many algos in Hack Reactor Prep. I managed about 40 today. I managed to do them quite quickly and I enjoyed practising ternary conditionals too.
+
+**Links to work:**
+
+[Hack Reactor Prep algos](https://github.com/Cyclokitty/hackreactorprep)

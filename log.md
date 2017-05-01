@@ -1214,3 +1214,23 @@ So many algos in Hack Reactor Prep. I managed about 40 today. I managed to do th
 **Links to work:**
 
 [Hack Reactor Prep algos](https://github.com/Cyclokitty/hackreactorprep)
+
+# Day 97 - 99: April 27, 28, 29, 2017
+
+**Progress:**
+
+Not the best end to nearly 100 Days of Code but I did have gum surgery. Blurgh! Managed a bunch more algorithms for hackreactorprep and a better understanding about objects. I don't have much planned for Day 100 other than some more algos.
+
+But this doesn't end on a whimper: I learned and built a lot the last 100+ days.
+
+  * algos are not my enemy. And I rose from 8kyu on codewars to 5kyu principally by completing 8kyu algos. I need them.
+
+  * completed the first half of the back end projects at FCC.
+
+  * gained a better understanding of React and completed the Leaderboard project.
+
+  * my theoretical knowledge of JavaScript is better.
+
+  * applied for an internship and was accepted into the first round of interviews! That was cool. Even got some swag. I was disappointed that I wasn't accepted for the pair programming interview and I felt I had a lot of good experience for the position. It even made me pretty angry for a few days because there was no feedback on how I could improve or what I did not do well. It was just a "sorry, no thanks" kind of email. Annoying.
+
+  All in all, this was a productive 100 days and I'm proud of my coding gains.

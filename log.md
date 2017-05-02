@@ -1234,3 +1234,11 @@ But this doesn't end on a whimper: I learned and built a lot the last 100+ days.
   * applied for an internship and was accepted into the first round of interviews! That was cool. Even got some swag. I was disappointed that I wasn't accepted for the pair programming interview and I felt I had a lot of good experience for the position. It even made me pretty angry for a few days because there was no feedback on how I could improve or what I did not do well. It was just a "sorry, no thanks" kind of email. Annoying.
 
   All in all, this was a productive 100 days and I'm proud of my coding gains.
+
+  # Day 100: May 2, 2017 !!!!
+
+  Woo!
+
+  Ok, finished up module 1 of hack reactor prep. Good stuff there and I practised algos for days.
+
+  Now, it's time to plan THE NEXT 100 DAYS OF CODE! 
